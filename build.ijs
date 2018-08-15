@@ -1,0 +1,1 @@
+writesourcex_jp_ '/home/raoul/Desktop/echoj' ; '/home/raoul/Desktop/echoj/release/echoj.ijs'
